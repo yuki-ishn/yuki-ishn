@@ -1,16 +1,34 @@
-## Hi there 👋
+# Yuki
 
-<!--
-**yuki-ishn/yuki-ishn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building maintainable software, clean system design, and practical developer tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Software engineering principles
+- Data structures & algorithms
+- Developer tooling and system configuration
+- Building real-world applications with clean architecture
+
+---
+
+## Technologies
+- **Languages:** Python | Swift | C
+- **Tools:** Git | GitHub | VS Code | Xcode
+- **Platforms:** macOS | Android
+
+---
+
+## Selected Projects
+- **Flow** — Minimalist Pomodoro-style timer for macOS demonstrating clean UI and functional design  
+- **Solo Leveling Fitness Tracker** — Android app with automated task system and activity tracking logic  
+- **Game Systems** — Custom mechanics and item systems for Minecraft, showcasing problem-solving and design
+
+---
+
+## Contact
+- Email: yuki.ishn.personal@gmail.com
+
+---
+
+Focused on steady improvement and building software that lasts.
