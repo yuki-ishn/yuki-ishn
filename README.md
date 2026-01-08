@@ -4,6 +4,14 @@ Computer Science student focused on building maintainable software, clean system
 
 ---
 
+## Academic Focus
+- Data Structures & Algorithms  
+- Operating Systems & Unix Systems Programming  
+- Software Engineering & System Design  
+- Computer Networks & Distributed Systems  
+
+---
+
 ## Areas of Interest
 - Software engineering principles
 - Data structures & algorithms
