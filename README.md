@@ -1,4 +1,4 @@
-# Yuki
+# Himmel
 
 Computer Science student focused on building maintainable software, clean system design, and practical developer tools.
 
